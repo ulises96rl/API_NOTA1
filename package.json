@@ -1,0 +1,17 @@
+{
+  "name": "API_NOTA",
+  "version": "1.0.0",
+  "description": "API REST NOTA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Omar Alvarado",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.12",
+    "pg": "^8.7.1"
+  }
+}
